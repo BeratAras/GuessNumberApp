@@ -1,0 +1,13 @@
+{
+  "name": "GuessNumberApp",
+  "displayName": "GuessNumberApp",
+  "expo": {
+    "name": "GuessNumberApp",
+    "slug": "GuessNumberApp",
+    "version": "1.0.0",
+    "orientation": "default",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
